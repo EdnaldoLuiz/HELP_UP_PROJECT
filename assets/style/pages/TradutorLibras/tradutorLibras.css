@@ -15,7 +15,7 @@
 .h-section-translator { 
   margin-top: 80px;
 
-  background: linear-gradient(rgba(0,0,0,.60), rgba(0,0,0,.60)100%), url("/assets/img/BgTradutorEmLibras/h-section-translator.png");
+  background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)100%), url("/assets/img/BgTradutorEmLibras/h-section-translator.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
