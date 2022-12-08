@@ -17,7 +17,7 @@
 - **HTML5, CSS3, Javascript**
 - **Fancybox library v4.0**
 - **Bootstrap Icons v1.5.0**
-- Acessibilidade -> [V-Libras](https://www.gov.br/governodigital/pt-br/vlibras)
+- Acessibilidade -> [VLibras](https://www.gov.br/governodigital/pt-br/vlibras)
 
 ### 💡 IDEIAS IMPLEMENTADAS:
 - **Preloader:**
@@ -45,3 +45,4 @@
 - [Walter Borges](https://github.com/wabpe)
 - [Ednaldo Luiz](https://github.com/EdnaldoLuiz)
 - [Bruno Henrique](https://github.com/brunohnsouza)
+
